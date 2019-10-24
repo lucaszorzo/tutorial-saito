@@ -5,10 +5,10 @@ import TemporaryDrawer from './components/TemporaryDrawer'
 
 function App() {
   return (
-    <Fragment>
+    <>
       <PrimarySearchAppBar />
       <TemporaryDrawer />
-    </Fragment>
+    </>
   );
 }
 

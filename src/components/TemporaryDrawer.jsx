@@ -22,7 +22,7 @@ const useStyles = makeStyles(theme => ({
     menuButton: {
         marginRight: theme.spacing(2),
     },
-});
+}));
 
 export default function TemporaryDrawer() {
     const classes = useStyles();
